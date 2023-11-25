@@ -23,4 +23,4 @@ options:
 
 ### install requirements via pip
 ### script is meant for Windows at this point
-### install tesseract OCR for it to work https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
+### install tesseract OCR for it to work https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe or https://tesseract-ocr.github.io/tessdoc/Downloads.html
