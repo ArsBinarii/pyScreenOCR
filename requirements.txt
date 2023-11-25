@@ -1,0 +1,15 @@
+comtypes==1.2.0
+imageio==2.33.0
+lazy_loader==0.3
+networkx==3.2.1
+numpy==1.26.2
+opencv-python==4.8.1.78
+packaging==23.2
+Pillow==10.1.0
+pypiwin32==223
+pytesseract==0.3.10
+pyttsx3==2.90
+pywin32==306
+scikit-image==0.22.0
+scipy==1.11.4
+tifffile==2023.9.26
